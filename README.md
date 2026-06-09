@@ -1,5 +1,7 @@
 # Set up the SonarQube Agent App for GitHub
 
+> Last verified: May 2026
+
 ## TL;DR overview
 
 * The SonarQube Agent App for GitHub brings SonarQube Cloud quality gate, analysis, coverage, duplication, dependency risk, and remediation workflows into agent apps for GitHub as a SonarQube agent.  
