@@ -1,6 +1,6 @@
 # Set up the SonarQube Agent App for GitHub
 
-> Last verified: May 2026
+> Last verified: June 2026
 
 ## TL;DR overview
 
